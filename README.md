@@ -16,4 +16,6 @@ As an extra-curricular activity I've co-founded the 42 Robotics Club.
 🌕  Travelled to 11 countries and counting. 
 ```
 ![my stats](https://github-readme-stats.vercel.app/api?username=m4r11&show_icons=true&theme=dark)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&show_icons=true&theme=dark)]
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&show_icons=true&theme=dark)
+
+
