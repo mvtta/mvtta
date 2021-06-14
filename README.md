@@ -15,4 +15,5 @@ As an extra-curricular activity I've co-founded the 42 Robotics Club.
 🌔  Interested in artificial inteligent systems, models and simulations. 
 🌕  Travelled to 11 countries and counting. 
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![my stats](https://github-readme-stats.vercel.app/api?username=m4r11&show_icons=true&theme=dark)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&show_icons=true&theme=dark)]
