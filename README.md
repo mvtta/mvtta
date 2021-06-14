@@ -1,9 +1,18 @@
 ### Uryyb gurer! 👋
 
-###### Welcome to my personal lab 🔬
+###### Welcome to my lab 🔬
 ```
-I'm currently a student at 42 Lisboa.
-This is my personal Captain's log. It's where I write down all I've learned, how I did   
-it and contains some projects in colaboration with my peers.  
-All work is being developed under the guidelines of the school and exclusive norme.  
+I'm currently a Software Engineering student at @ 42 lisboa.  
+As an extra-curricular activity I've co-founded the 42 Robotics Club. 
+More about me:
+🌕  Curious about everything (not an overstatement). 
+🌖  Space geek. 
+🌗  Prioritize work ethics. 
+🌘  Scientific mind.  
+🌑  Criativity & innovation in problem-solving. 
+🌒  Interested in human enhancement through technology. 
+🌓  Interested in mobility: land, air & space.
+🌔  Interested in artificial inteligent systems, models and simulations. 
+🌕  Travelled to 11 countries and counting. 
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
