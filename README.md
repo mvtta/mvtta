@@ -2,7 +2,7 @@
 
 ###### About me
 ```
-I'm currently a Software Engineering student at @ 42 lisboa.  
+I'm currently a Software Engineering student @ 42 lisboa.  
 As an extra-curricular activity I've co-founded the 42 Robotics Club. 
 
 🌕  Curious about everything (not an overstatement). 
