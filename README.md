@@ -6,6 +6,6 @@ Scientific Software Engineer
     Primary Interests:
                         Medical / Neuroscience
                         Astrophysics / Micro-Biology Chemistry
-                        Physics - Classical and Quantum
+                        Physics
                         
                         
