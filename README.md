@@ -1,12 +1,19 @@
 ###### there is no center in infinity     
 
 ```bash
+About:
 Scientific Software Engineer
-    Assist with Graphic, Imaging, Modeling in STEM R&D
+    Currently working in R&D, Telecom, Layer 1
+
+Aim:
+    Contribute to Open Knowledge
+    Collaborate on Research and Development projects
     Primary Interests:
-                        Medical / Neuroscience
-                        Astrophysics / Micro-Biology Chemistry
-                        Physics
+                        Cognitive Sciences
+                        Evolutionary Biology
+                        Systems and Models
+
+Open-Notebook: mvtta.github.io
  ```
                         
                         
