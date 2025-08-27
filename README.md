@@ -1,9 +1,8 @@
 ###### there is no center in infinity     
 
-###### About:  
-> Explorer  
+###### About: Explorer  
 
-###### Thoughts:  
+###### Thoughts of a Gentlewoman  
 > mvtta.github.io (currently under work)
        
 ###### Poetry:  
