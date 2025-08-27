@@ -1,5 +1,4 @@
-###### there is no center in infinity     
-
+####### *there is no center in infinity*    
 ###### About: Explorer  
 
 ###### Thoughts of a Gentlewoman  
