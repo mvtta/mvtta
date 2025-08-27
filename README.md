@@ -3,12 +3,12 @@
 ```bash
 About:
         Explorer
-Gentlewoman's Thoughts:
+
+Thoughts:
         mvtta.github.io (currently under work)
 Poetry:
         marianas.life (currently under work)
-Engineering Synergies:
-        diana.systems
+
  ```
                         
                         
