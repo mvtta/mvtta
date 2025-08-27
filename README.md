@@ -5,13 +5,13 @@
 ###### Thoughts of a Gentlewoman  
 > mvtta.github.io (currently under work)
        
-###### Poetry:  
+###### Poetry  
 > marianas.life (currently under work)
 
-###### Constructions:
+###### Constructions
 [Stone Technology](https://youtu.be/PcYyy3SopGg?si=RPLXKK46cF2AiO7l)
 
-###### Visual:  
+###### Visual  
 [Short film: An ode to metamorphic stone](https://youtu.be/Yv6VzXbFyrY?si=kETFDWPazqoCifnT)  
 
 ###### Making Jewelry in Japan
