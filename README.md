@@ -1,6 +1,5 @@
 ###### there is no center in infinity     
 
-```bash
 About:
         Explorer
 
@@ -11,7 +10,6 @@ Poetry:
 Visual:
         (An homage to portuguese metamorphic stone)[https://youtu.be/m768mqBnC1E?si=vd9a7WaBh5aG77MP] 
 
- ```
                         
                         
                      
